@@ -1,4 +1,4 @@
 ![](https://komarev.com/ghpvc/?username=jaydensar)
 
-![](https://gh-stats.jaydensar.net/api?username=jaydensar&show_icons=true&count_private=true)
-![](https://gh-stats.jaydensar.net/api/top-langs/?username=jaydensar&layout=compact&exclude_repo=github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=jaydensar&show_icons=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaydensar&layout=compact)

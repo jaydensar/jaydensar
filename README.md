@@ -1,3 +1,3 @@
-![Metrics](https://raw.githubusercontent.com/jaydensar/jaydensar/metrics/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/jaydensar/jaydensar/main/github-metrics.svg)
 
 ![](https://komarev.com/ghpvc/?username=jaydensar)

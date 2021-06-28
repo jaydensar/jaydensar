@@ -27,3 +27,4 @@ jobs:
           plugin_pagespeed_url: romanager.jaydenn.dev
           committer_gist: "1fd8e35581cf049787df45239f3a5c35"
           output_action: "gist"
+          filename: "github-metrics-romanager.*"
